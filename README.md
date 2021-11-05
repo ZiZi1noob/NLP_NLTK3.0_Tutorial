@@ -26,5 +26,8 @@ Please contact me (ziyangz6@illinois.edu) if you find any mistakes or questions.
 
 
 
-                                                                                   Reference
+
+
+
+Reference
 Steven Bird, Ewan Klein, and Edward Loper (2009). Natural Language Processing with Python. O’Reilly Media Inc.
